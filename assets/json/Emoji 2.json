@@ -1,0 +1,27 @@
+{
+    "name": "Emoji 2",
+    "description": "Emoji #2",
+    "image": "ipfs://Qmca6m6iafnWFEDYB5t3jzncQ6y6N1DgcSuh8LrfjtAYm8/Emoji 2.png",
+    "attributes": [
+        {
+            "trait_type": "bodyColor",
+            "value": "0"
+        },
+        {
+            "trait_type": "mouthColor",
+            "value": "15"
+        },
+        {
+            "trait_type": "leftEyeColor",
+            "value": "16"
+        },
+        {
+            "trait_type": "rightEyeColor",
+            "value": "9"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "Emotion.happy"
+        }
+    ]
+}

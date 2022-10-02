@@ -1,0 +1,4 @@
+enum Emotion {
+  happy,
+  sad
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Emoji 0",
+    "description": "Emoji #0",
+    "image": "ipfs://Qmca6m6iafnWFEDYB5t3jzncQ6y6N1DgcSuh8LrfjtAYm8/Emoji 0.png",
+    "attributes": [
+        {
+            "trait_type": "bodyColor",
+            "value": "3"
+        },
+        {
+            "trait_type": "mouthColor",
+            "value": "7"
+        },
+        {
+            "trait_type": "leftEyeColor",
+            "value": "11"
+        },
+        {
+            "trait_type": "rightEyeColor",
+            "value": "2"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "Emotion.sad"
+        }
+    ]
+}

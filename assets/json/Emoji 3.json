@@ -1,0 +1,27 @@
+{
+    "name": "Emoji 3",
+    "description": "Emoji #3",
+    "image": "ipfs://Qmca6m6iafnWFEDYB5t3jzncQ6y6N1DgcSuh8LrfjtAYm8/Emoji 3.png",
+    "attributes": [
+        {
+            "trait_type": "bodyColor",
+            "value": "14"
+        },
+        {
+            "trait_type": "mouthColor",
+            "value": "16"
+        },
+        {
+            "trait_type": "leftEyeColor",
+            "value": "5"
+        },
+        {
+            "trait_type": "rightEyeColor",
+            "value": "5"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "Emotion.happy"
+        }
+    ]
+}

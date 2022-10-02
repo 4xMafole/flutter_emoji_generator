@@ -1,0 +1,27 @@
+{
+    "name": "Emoji 1",
+    "description": "Emoji #1",
+    "image": "ipfs://Qmca6m6iafnWFEDYB5t3jzncQ6y6N1DgcSuh8LrfjtAYm8/Emoji 1.png",
+    "attributes": [
+        {
+            "trait_type": "bodyColor",
+            "value": "16"
+        },
+        {
+            "trait_type": "mouthColor",
+            "value": "9"
+        },
+        {
+            "trait_type": "leftEyeColor",
+            "value": "14"
+        },
+        {
+            "trait_type": "rightEyeColor",
+            "value": "2"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "Emotion.happy"
+        }
+    ]
+}
